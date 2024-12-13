@@ -1,0 +1,16 @@
+JsonSERVER (voir FETCH)
+Vite 
+
+
+pokedex: 
+
+je récupère tout mes pokemons et on affiche 50 aléatoirement.
+
+-> Tableau de pokemon avec un 
+
+index ou ID 
+on créer un random qui parcours le tableau de pokemon (par taille)x50 car 50 pokemon (find pour trouver l'index)
+
+for (i = 50, I >= 0, I--).random 
+
+GET ALL POKEMON puis Boucle for 
